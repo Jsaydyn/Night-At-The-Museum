@@ -2,6 +2,7 @@
 Computing Task 2
 
 **Controls:**
+
 In Museum:
   Arrow Keys: Move
   Enter: Interact, continue dialogue.
